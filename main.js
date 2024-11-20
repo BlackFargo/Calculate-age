@@ -1,26 +1,3 @@
-// function getWeekDay(date) {
-// 	const converted = new Date(date);
-// 	const week = converted.getDay();
-
-// 	console.log(week)
-// }
-
-// console.log(getWeekDay(Date.now()))
-
-
-
-const date = new Date(0);
-
-console.log(new Date(date.setHours(10)))
-
-// const fullYear = date.getFullYear();
-// const mounth = date.getMonth();
-// const date1 = date.getDate();
-// const hour = date.getHours();
-// const minutes = date.getMinutes();
-// const seconds = date.getSeconds();
-// const miliseconds = date.getMilliseconds();
-// console.log(fullYear, mounth + 1, date1, hour, minutes, seconds, miliseconds)
 
 const firstAge = document.querySelector('#firstAge');
 const secondAge = document.querySelector('#secondAge');
